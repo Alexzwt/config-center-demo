@@ -3,7 +3,7 @@
 
 spring:
   profiles:
-    active: dev1
+    active: dev2
   
 config1: test1
 config2: test2
