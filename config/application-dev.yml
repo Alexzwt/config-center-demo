@@ -5,3 +5,7 @@ spring:
   profiles:
     active: dev1
   
+config1: test1
+config2: test2
+config3: test3
+config4: test4
